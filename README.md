@@ -9,3 +9,5 @@ I will use the third-party pandas and seaborn modules, and the first-party modul
 In order to set-up this project, the kaggle.json file that is attached on this repo has to be downloaded into the drive. For simplicity, it will only work if it is in the main drive folder (sub-folders unfortunately will not work).
 
 Then, all that's left to do is run the code on a Colab Notebook!
+
+The demo can be found here: https://drive.google.com/file/d/1MX8v9wnh1FUcgjlPTw8J2_rDZTEwwVdX/view?usp=sharing
